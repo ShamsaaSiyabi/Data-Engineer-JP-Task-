@@ -6,5 +6,6 @@ In VS code:
 
 Open ReadImageDE.py file
 
-Press run file Python from here ![image](https://user-images.githubusercontent.com/93667957/141654310-81cafbb4-a2db-4071-a85e-59d4944fdc31.png)
+Press run file Python from here ![image](https://user-images.githubusercontent.com/93667957/141654399-c845757c-dad5-4e8d-94dc-7367c6b135f2.png)
+
 
