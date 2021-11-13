@@ -1,6 +1,6 @@
 # Data-Engineer-JP-Task-
 
-Make sure you have python development environment (Python 3 ) and script editor like VS code
+Make sure you have python development environment (Python 3 or above ) and script editor like VS code
 
 In VS code: 
 
